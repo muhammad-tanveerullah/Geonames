@@ -20,7 +20,7 @@
     "illuminate/routing": "^5.8",
     "michaeldrennen/remote-file": "^2.0",
     "michaeldrennen/local-file": "^2.0",
-    "nesbot/carbon": "^2.17",
+    "nesbot/carbon": "*",
     "laravel/framework": "^5.8"
   },
   "require-dev": {
